@@ -1,0 +1,21 @@
+{
+    "cs50": {
+        "simple": {
+            "settings": {
+                "@revision": 6
+            }
+        }
+    },
+    "general": {
+        "@stripws": true
+    },
+    "language": {
+        "@undeclaredVars": true,
+        "tern_defs": {
+            "json()": false
+        }
+    },
+    "python": {
+        "@path": "/usr/local/lib/python3.7/site-packages"
+    }
+}

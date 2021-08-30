@@ -1,0 +1,59 @@
+{
+    "ace": {
+        "@behavioursEnabled": true,
+        "@keyboardmode": "default",
+        "@showFoldWidgets": false,
+        "@showGutter": true,
+        "@showInvisibles": false,
+        "@showPrintMargin": false,
+        "@theme": "ace/theme/cloud9_night",
+        "custom-types": {
+            "json()": {
+                "settings": "javascript"
+            }
+        },
+        "statusbar": {
+            "@show": true
+        }
+    },
+    "clipboard": {
+        "@dontshow": true
+    },
+    "collab": {
+        "@timeslider-visible": false
+    },
+    "general": {
+        "@skin": "flat-dark"
+    },
+    "key-bindings": {
+        "@platform": "win"
+    },
+    "language": {
+        "@continuousCompletion": false,
+        "@enterCompletion": false
+    },
+    "openfiles": {
+        "@show": false
+    },
+    "output": {},
+    "projecttree": {
+        "@showhidden": false
+    },
+    "tabs": {
+        "@asterisk": false,
+        "@show": true,
+        "editorTypes": {
+            "@class": "none",
+            "@exe": "none",
+            "@gz": "none",
+            "@o": "none",
+            "@pyc": "none",
+            "@raw": "none",
+            "@tar": "none",
+            "@zip": "none"
+        }
+    },
+    "terminal": {
+        "@scrollback": 2000
+    }
+}
