@@ -61,3 +61,6 @@ git config --gloal user.email jwinkler5@huskers.unl.edu
 git config --gloal jwinkler5@huskers.unl.edu
 git config --global jackson winkler
 git init
+git add --all
+git commit -m 'initial commit'
+git init
