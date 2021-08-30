@@ -64,3 +64,19 @@ git init
 git add --all
 git commit -m 'initial commit'
 git init
+git add --all
+git commit -m 'initial commit'
+git remote add origin https://github.com/login/hello.git
+git remote add origin https://github.com/jwinkler5/hello.git
+git push -u origin master
+cd misc
+cd Misc
+git push -u origin master
+git commit -m 'initial commit'
+git config --global jwinkler5@huskers.unl.edu
+cd hello
+git config --global jwinkler5@huskers.unl.edu
+cd misc
+cd Misc
+cd ~
+cd Misc
